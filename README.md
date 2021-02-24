@@ -1,1 +1,1 @@
-![AppVeyor](https://img.shields.io/appveyor/build/bossfiles/DictatorRole6)
+![GitHub commit checks state](https://img.shields.io/github/checks-status/bossfiles/DictatorRole6/8)
